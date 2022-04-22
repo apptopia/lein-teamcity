@@ -10,3 +10,6 @@ more details:
 ```
 lein with-profile +teamcity do test
 ```
+
+NOTE it's possible to run `lein test` without that and we will get the results - build log, commit publisher etc and it would be pretty fine
+but it would be less convenient
